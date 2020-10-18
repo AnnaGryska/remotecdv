@@ -2,3 +2,4 @@ test taest taest
 drugi wiersz
 elo
 trzy
+nowa funkcja
